@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729194801511",
+    "project_id": "task-wajeez",
+    "storage_bucket": "task-wajeez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729194801511:android:79f5a6049c953b1ae267c2",
+        "android_client_info": {
+          "package_name": "com.example.taskwajeez"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729194801511-t31229v60eadbkktam8gsvua0f0bjpne.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpD9b2PVCBRl1nkvaBO0kVuISX6EGJO5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729194801511-t31229v60eadbkktam8gsvua0f0bjpne.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
